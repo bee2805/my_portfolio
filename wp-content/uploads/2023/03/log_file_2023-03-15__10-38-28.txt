@@ -1,0 +1,197 @@
+
+---Downloaded files---
+The import files for: Default Demo were successfully downloaded!
+Initial max execution time = 30
+Files info:
+Site URL = http://localhost:8888/my_portfolio
+Data file = /Applications/MAMP/htdocs/my_portfolio/wp-content/uploads/2023/03/demo-content-import-file_2023-03-15__10-38-28.xml
+Widget file = not defined!
+Customizer file = not defined!
+Redux files:
+not defined!
+
+------
+New AJAX call!
+[WARNING] Failed to import "Styling": Invalid post type acf-field
+[WARNING] Failed to import "Theme UI": Invalid post type acf-field
+[WARNING] Failed to import "Background Color": Invalid post type acf-field
+[WARNING] Failed to import "Extra Background Color": Invalid post type acf-field
+[WARNING] Failed to import "Background Color (Dark mode)": Invalid post type acf-field
+[WARNING] Failed to import "Extra Background Color (Dark mode)": Invalid post type acf-field
+[WARNING] Failed to import "Paragraphs Color": Invalid post type acf-field
+[WARNING] Failed to import "Paragraphs Color (Dark mode)": Invalid post type acf-field
+[WARNING] Failed to import "Theme Color": Invalid post type acf-field
+[WARNING] Failed to import "Button Color": Invalid post type acf-field
+[WARNING] Failed to import "Paragraphs Font Size": Invalid post type acf-field
+[WARNING] Failed to import "Section Heading Font Size": Invalid post type acf-field
+[WARNING] Failed to import "Post Heading Font Size": Invalid post type acf-field
+[WARNING] Failed to import "Paragraphs Font Family": Invalid post type acf-field
+[WARNING] Failed to import "Primary Font Family": Invalid post type acf-field
+[WARNING] Failed to import "Header": Invalid post type acf-field
+[WARNING] Failed to import "": Invalid post type acf-field
+[WARNING] Failed to import "Header Layout": Invalid post type acf-field
+[WARNING] Failed to import "Header Template": Invalid post type acf-field
+[WARNING] Failed to import "": Invalid post type acf-field
+[WARNING] Failed to import "Menu Items Size": Invalid post type acf-field
+[WARNING] Failed to import "Sub-Menu Items Size": Invalid post type acf-field
+[WARNING] Failed to import "Footer": Invalid post type acf-field
+[WARNING] Failed to import "": Invalid post type acf-field
+[WARNING] Failed to import "Footer Layout": Invalid post type acf-field
+[WARNING] Failed to import "Footer Template": Invalid post type acf-field
+[WARNING] Failed to import "Copyright": Invalid post type acf-field
+[WARNING] Failed to import "Social": Invalid post type acf-field
+[WARNING] Failed to import "Social Links Type": Invalid post type acf-field
+[WARNING] Failed to import "Social Links": Invalid post type acf-field
+[WARNING] Failed to import "Icon Label": Invalid post type acf-field
+[WARNING] Failed to import "Icon Class": Invalid post type acf-field
+[WARNING] Failed to import "Name": Invalid post type acf-field
+[WARNING] Failed to import "URL": Invalid post type acf-field
+[WARNING] Failed to import "Blog": Invalid post type acf-field
+[WARNING] Failed to import "Blog Title": Invalid post type acf-field
+[WARNING] Failed to import "Blog Page": Invalid post type acf-field
+[WARNING] Failed to import "Display categories?": Invalid post type acf-field
+[WARNING] Failed to import "Disable post excerpt?": Invalid post type acf-field
+[WARNING] Failed to import "Social Share": Invalid post type acf-field
+[WARNING] Failed to import "Luique Options": Invalid post type acf-field-group
+[WARNING] Failed to import "Portfolio": Invalid post type acf-field
+[WARNING] Failed to import "Portfolio Page": Invalid post type acf-field
+[WARNING] Failed to import "404": Invalid post type acf-field
+[WARNING] Failed to import "Content": Invalid post type acf-field
+[WARNING] Failed to import "Mask Background": Invalid post type acf-field
+[WARNING] Failed to import "Preloader": Invalid post type acf-field
+[WARNING] Failed to import "Disable Preloader?": Invalid post type acf-field
+[WARNING] Failed to import "Preloader Image": Invalid post type acf-field
+[WARNING] Failed to import "Parallax": Invalid post type acf-field
+[WARNING] Failed to import "Disable Profile Figures?": Invalid post type acf-field
+[WARNING] Failed to import "Disable Vertical Lines?": Invalid post type acf-field
+[WARNING] Failed to import "Page Settings": Invalid post type acf-field-group
+[WARNING] Failed to import "Page Footer": Invalid post type acf-field
+[WARNING] Failed to import "Portfolio Item Settings": Invalid post type acf-field-group
+[WARNING] Failed to import "Portfolio Item Short Description": Invalid post type acf-field
+[WARNING] Failed to import "Portfolio Item BG Texture": Invalid post type acf-field
+
+
+------
+New AJAX call!
+[WARNING] Failed to import "Styling": Invalid post type acf-field
+[WARNING] Failed to import "Theme UI": Invalid post type acf-field
+[WARNING] Failed to import "Background Color": Invalid post type acf-field
+[WARNING] Failed to import "Extra Background Color": Invalid post type acf-field
+[WARNING] Failed to import "Background Color (Dark mode)": Invalid post type acf-field
+[WARNING] Failed to import "Extra Background Color (Dark mode)": Invalid post type acf-field
+[WARNING] Failed to import "Paragraphs Color": Invalid post type acf-field
+[WARNING] Failed to import "Paragraphs Color (Dark mode)": Invalid post type acf-field
+[WARNING] Failed to import "Theme Color": Invalid post type acf-field
+[WARNING] Failed to import "Button Color": Invalid post type acf-field
+[WARNING] Failed to import "Paragraphs Font Size": Invalid post type acf-field
+[WARNING] Failed to import "Section Heading Font Size": Invalid post type acf-field
+[WARNING] Failed to import "Post Heading Font Size": Invalid post type acf-field
+[WARNING] Failed to import "Paragraphs Font Family": Invalid post type acf-field
+[WARNING] Failed to import "Primary Font Family": Invalid post type acf-field
+[WARNING] Failed to import "Header": Invalid post type acf-field
+[WARNING] Failed to import "": Invalid post type acf-field
+[WARNING] Failed to import "Header Layout": Invalid post type acf-field
+[WARNING] Failed to import "Header Template": Invalid post type acf-field
+[WARNING] Failed to import "": Invalid post type acf-field
+[WARNING] Failed to import "Menu Items Size": Invalid post type acf-field
+[WARNING] Failed to import "Sub-Menu Items Size": Invalid post type acf-field
+[WARNING] Failed to import "Footer": Invalid post type acf-field
+[WARNING] Failed to import "": Invalid post type acf-field
+[WARNING] Failed to import "Footer Layout": Invalid post type acf-field
+[WARNING] Failed to import "Footer Template": Invalid post type acf-field
+[WARNING] Failed to import "Copyright": Invalid post type acf-field
+[WARNING] Failed to import "Social": Invalid post type acf-field
+[WARNING] Failed to import "Social Links Type": Invalid post type acf-field
+[WARNING] Failed to import "Social Links": Invalid post type acf-field
+[WARNING] Failed to import "Icon Label": Invalid post type acf-field
+[WARNING] Failed to import "Icon Class": Invalid post type acf-field
+[WARNING] Failed to import "Name": Invalid post type acf-field
+[WARNING] Failed to import "URL": Invalid post type acf-field
+[WARNING] Failed to import "Blog": Invalid post type acf-field
+[WARNING] Failed to import "Blog Title": Invalid post type acf-field
+[WARNING] Failed to import "Blog Page": Invalid post type acf-field
+[WARNING] Failed to import "Display categories?": Invalid post type acf-field
+[WARNING] Failed to import "Disable post excerpt?": Invalid post type acf-field
+[WARNING] Failed to import "Social Share": Invalid post type acf-field
+[WARNING] Failed to import "Luique Options": Invalid post type acf-field-group
+[WARNING] Failed to import "Portfolio": Invalid post type acf-field
+[WARNING] Failed to import "Portfolio Page": Invalid post type acf-field
+[WARNING] Failed to import "404": Invalid post type acf-field
+[WARNING] Failed to import "Content": Invalid post type acf-field
+[WARNING] Failed to import "Mask Background": Invalid post type acf-field
+[WARNING] Failed to import "Preloader": Invalid post type acf-field
+[WARNING] Failed to import "Disable Preloader?": Invalid post type acf-field
+[WARNING] Failed to import "Preloader Image": Invalid post type acf-field
+[WARNING] Failed to import "Parallax": Invalid post type acf-field
+[WARNING] Failed to import "Disable Profile Figures?": Invalid post type acf-field
+[WARNING] Failed to import "Disable Vertical Lines?": Invalid post type acf-field
+[WARNING] Failed to import "Page Settings": Invalid post type acf-field-group
+[WARNING] Failed to import "Page Footer": Invalid post type acf-field
+[WARNING] Failed to import "Portfolio Item Settings": Invalid post type acf-field-group
+[WARNING] Failed to import "Portfolio Item Short Description": Invalid post type acf-field
+[WARNING] Failed to import "Portfolio Item BG Texture": Invalid post type acf-field
+
+
+------
+New AJAX call!
+[WARNING] Failed to import "Styling": Invalid post type acf-field
+[WARNING] Failed to import "Theme UI": Invalid post type acf-field
+[WARNING] Failed to import "Background Color": Invalid post type acf-field
+[WARNING] Failed to import "Extra Background Color": Invalid post type acf-field
+[WARNING] Failed to import "Background Color (Dark mode)": Invalid post type acf-field
+[WARNING] Failed to import "Extra Background Color (Dark mode)": Invalid post type acf-field
+[WARNING] Failed to import "Paragraphs Color": Invalid post type acf-field
+[WARNING] Failed to import "Paragraphs Color (Dark mode)": Invalid post type acf-field
+[WARNING] Failed to import "Theme Color": Invalid post type acf-field
+[WARNING] Failed to import "Button Color": Invalid post type acf-field
+[WARNING] Failed to import "Paragraphs Font Size": Invalid post type acf-field
+[WARNING] Failed to import "Section Heading Font Size": Invalid post type acf-field
+[WARNING] Failed to import "Post Heading Font Size": Invalid post type acf-field
+[WARNING] Failed to import "Paragraphs Font Family": Invalid post type acf-field
+[WARNING] Failed to import "Primary Font Family": Invalid post type acf-field
+[WARNING] Failed to import "Header": Invalid post type acf-field
+[WARNING] Failed to import "": Invalid post type acf-field
+[WARNING] Failed to import "Header Layout": Invalid post type acf-field
+[WARNING] Failed to import "Header Template": Invalid post type acf-field
+[WARNING] Failed to import "": Invalid post type acf-field
+[WARNING] Failed to import "Menu Items Size": Invalid post type acf-field
+[WARNING] Failed to import "Sub-Menu Items Size": Invalid post type acf-field
+[WARNING] Failed to import "Footer": Invalid post type acf-field
+[WARNING] Failed to import "": Invalid post type acf-field
+[WARNING] Failed to import "Footer Layout": Invalid post type acf-field
+[WARNING] Failed to import "Footer Template": Invalid post type acf-field
+[WARNING] Failed to import "Copyright": Invalid post type acf-field
+[WARNING] Failed to import "Social": Invalid post type acf-field
+[WARNING] Failed to import "Social Links Type": Invalid post type acf-field
+[WARNING] Failed to import "Social Links": Invalid post type acf-field
+[WARNING] Failed to import "Icon Label": Invalid post type acf-field
+[WARNING] Failed to import "Icon Class": Invalid post type acf-field
+[WARNING] Failed to import "Name": Invalid post type acf-field
+[WARNING] Failed to import "URL": Invalid post type acf-field
+[WARNING] Failed to import "Blog": Invalid post type acf-field
+[WARNING] Failed to import "Blog Title": Invalid post type acf-field
+[WARNING] Failed to import "Blog Page": Invalid post type acf-field
+[WARNING] Failed to import "Display categories?": Invalid post type acf-field
+[WARNING] Failed to import "Disable post excerpt?": Invalid post type acf-field
+[WARNING] Failed to import "Social Share": Invalid post type acf-field
+[WARNING] Failed to import "Luique Options": Invalid post type acf-field-group
+[WARNING] Failed to import "Portfolio": Invalid post type acf-field
+[WARNING] Failed to import "Portfolio Page": Invalid post type acf-field
+[WARNING] Failed to import "404": Invalid post type acf-field
+[WARNING] Failed to import "Content": Invalid post type acf-field
+[WARNING] Failed to import "Mask Background": Invalid post type acf-field
+[WARNING] Failed to import "Preloader": Invalid post type acf-field
+[WARNING] Failed to import "Disable Preloader?": Invalid post type acf-field
+[WARNING] Failed to import "Preloader Image": Invalid post type acf-field
+[WARNING] Failed to import "Parallax": Invalid post type acf-field
+[WARNING] Failed to import "Disable Profile Figures?": Invalid post type acf-field
+[WARNING] Failed to import "Disable Vertical Lines?": Invalid post type acf-field
+[WARNING] Failed to import "Page Settings": Invalid post type acf-field-group
+[WARNING] Failed to import "Page Footer": Invalid post type acf-field
+[WARNING] Failed to import "Portfolio Item Settings": Invalid post type acf-field-group
+[WARNING] Failed to import "Portfolio Item Short Description": Invalid post type acf-field
+[WARNING] Failed to import "Portfolio Item BG Texture": Invalid post type acf-field
+
+
+---ocdi/after_import---
+

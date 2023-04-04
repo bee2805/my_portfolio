@@ -1,0 +1,18 @@
+
+---Downloaded files---
+The import files for: Default Demo were successfully downloaded!
+Initial max execution time = 300
+Files info:
+Site URL = https://luique.bslthemes.com
+Data file = /home/u290132919/domains/bslthemes.com/public_html/luique/wp-content/uploads/2022/09/demo-content-import-file_2022-09-10__17-58-42.xml
+Widget file = not defined!
+Customizer file = not defined!
+Redux files:
+not defined!
+
+------
+New AJAX call!
+
+
+---ocdi/after_import---
+
